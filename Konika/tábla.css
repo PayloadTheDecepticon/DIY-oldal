@@ -1,3 +1,32 @@
-td{
-
+table{
+    border-color: black;
+    border-spacing: initial;
+    font-family: 'Leelawadee UI';
+    font-size: 14px
+}
+td.a{
+    color: #87cefa
+}
+td.b{
+    color: #4682b4
+}
+td.c{
+    color: #00fa9a
+}
+td.d{
+    color: #ff6347
+}
+td.e{
+    color: #ff8c69
+}
+td.f{
+    color: #A52A2A
+}
+td.g{
+    color: #FFD700
+}
+tr{
+    display: flex;
+    table-layout: fixed;
+    height: 1cm
 }

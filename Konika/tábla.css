@@ -1,3 +1,37 @@
+table{
+    border-color: black;
+    border-collapse: collapse;
+    font-family: 'Leelawadee UI';
+    font-size: 14px;
+    height: 7cm
+}
+td.a{
+    background-color: #87cefa
+}
+td.b{
+    background-color: #4682b4
+}
+td.c{
+    background-color: #00fa9a
+}
+td.d{
+    background-color: #ff6347
+}
+td.e{
+    background-color: #ff8c69
+}
+td.f{
+    background-color: #A52A2A
+}
+td.g{
+    background-color: #FFD700
+}
 td{
-
+    background-color: rgb(255, 130, 0);
+    border-width: 2px;
+    text-align: center
+}
+th{
+    background-color: orangered;
+    border-width: 2px
 }

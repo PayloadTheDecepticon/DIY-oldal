@@ -1,0 +1,101 @@
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+a.fekete {
+    color: black;
+    text-decoration: none;
+}
+
+a.fekete:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a.fekete:hover {
+    color: #ff4d00;
+    text-decoration: underline;
+}
+
+a.feketeunclick {
+    color: black;
+    text-decoration: none;
+}
+
+a.here {
+    color: black;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+a.here:visited {
+    color: black;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+a.here:hover {
+    color: #ff4d00;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+a.back {
+    color: white;
+    text-decoration: none;
+}
+
+a.back:hover {
+    color: #ff9900;
+    text-decoration: none;
+}
+
+p.fehér {
+    color: white;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+p.égkék{
+    color: skyblue;
+    text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
+}
+
+p.acélkék{
+    color: #4682b4;
+    text-shadow: 0 0 1px white, 0 0 1px white, 0 0 1px white, 0 0 1px white;
+}
+
+p.zöld{
+    color: #00fa9a;
+    text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
+}
+
+p.gold{
+    color: #FFD700;
+    text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
+}
+
+p.lazac{
+    color: #ff8c69;
+    text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
+}
+
+p.vörös{
+    color: #ff6347;
+    text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
+}
+
+p.barna{
+    color: #A52A2A;
+    text-shadow: 0 0 1px white, 0 0 1px white, 0 0 1px white, 0 0 1px white;
+}

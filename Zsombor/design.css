@@ -56,6 +56,17 @@ a.back:hover {
     text-decoration: none;
 }
 
+a.érdeklődő {
+    color: white;
+    text-decoration: none;
+}
+
+a.érdeklődő:hover {
+    color: #ff9900;
+    text-decoration: none;
+    text-shadow: 0 0 1px white, 0 0 1px white, 0 0 1px white, 0 0 1px white;
+}
+
 p.fehér {
     color: white;
     text-decoration: none;

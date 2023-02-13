@@ -72,6 +72,11 @@ p.fehér {
     text-decoration: none;
 }
 
+h5.fehér {
+    color: white;
+    text-decoration: none;
+}
+
 ul {
     list-style: none;
 }
